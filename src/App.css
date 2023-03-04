@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App{
+  
+  background: rgb(154,192,235);
+  background: linear-gradient(90deg, rgba(154,192,235,1) 15%, rgba(217,233,251,1) 50%, rgba(154,192,235,1) 85%);
+}
+.content{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 116px;
+}
+
+
